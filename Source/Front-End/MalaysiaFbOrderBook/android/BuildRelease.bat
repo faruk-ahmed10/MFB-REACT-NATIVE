@@ -1,0 +1,1 @@
+CMD /c gradlew bundleRelease
